@@ -1,0 +1,2 @@
+[ 2024-12-29 12:40:39,347 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-12-29 12:40:40,749 ] 21 root - INFO - Entered the data ingestion method or component
